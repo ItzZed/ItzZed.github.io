@@ -1,1 +1,2 @@
-My Website
+# ItzZed.github.io
+It's my website...
